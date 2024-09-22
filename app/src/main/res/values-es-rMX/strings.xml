@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="buttontrue">cierto</string>
+    <string name="buttonfalse">incorrecto</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="next_button">Siguiente</string>
+    <string name="question_australia">Canberra es la capital de Australia.</string>
+    <string name="question_asia">Lago Baikal es el lago mas profundo y viejo de agua dulce</string>
+    <string name="question_africa">El Canal de Suez conecta el Mar Rojo y el Océano Índico.</string>
+    <string name="back_button">Anterior</string>
+    <string name="warning_text">¿Estas seguro que quieres hacer esto?</string>
+    <string name="show_answer_button">Mostrar Respuesta</string>
+    <string name="cheat_button">¡Trampa!</string>
+    <string name="judgment_toast">Hacer trampa es malo</string>
+</resources>
