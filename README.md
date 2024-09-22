@@ -32,6 +32,7 @@ QuizzApp es una aplicación sencilla que permite a los usuarios responder pregun
 ## Capturas de pantalla
 ![Screenshot 2024-09-22 at 12 13 03 a m](https://github.com/user-attachments/assets/264bd989-0610-4d35-a2d0-609875e4a324)
 
+![Screenshot 2024-09-22 at 12 13 34 a m](https://github.com/user-attachments/assets/ecfbe8d7-21fb-40d5-8ab4-165eefbe1810)
 
 
 
