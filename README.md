@@ -27,6 +27,12 @@ QuizzApp es una aplicación sencilla que permite a los usuarios responder pregun
 
 5. **Usar la Función "Trampa"**:
    - Si no estás seguro de la respuesta, toca el botón "Trampa". Esto te llevará a otra pantalla donde podrás ver la respuesta correcta (Esto no esta bien).
+   - 
+
+## Capturas de pantalla
+![Screenshot 2024-09-22 at 12 13 03 a m](https://github.com/user-attachments/assets/264bd989-0610-4d35-a2d0-609875e4a324)
+
+
 
 
 ## Instalación
