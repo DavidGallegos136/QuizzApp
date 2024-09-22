@@ -32,4 +32,4 @@ QuizzApp es una aplicación sencilla que permite a los usuarios responder pregun
 ## Instalación
 
 1. Clona el repositorio en tu máquina usando la siguiente url:
-2. https://github.com/DavidGallegos136/CalculadoraPropinas.gi
+2. https://github.com/DavidGallegos136/QuizzApp.git
